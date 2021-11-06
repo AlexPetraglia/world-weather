@@ -1,0 +1,4 @@
+br\com\alexandrepetraglia\worldweather\infrastructure\api\request\WeatherRequest.class
+br\com\alexandrepetraglia\worldweather\infrastructure\gateway\FindWeatherYahooGateway.class
+br\com\alexandrepetraglia\worldweather\infrastructure\adapter\FindWeatherAdapter.class
+br\com\alexandrepetraglia\worldweather\infrastructure\api\controller\FindWeatherController.class

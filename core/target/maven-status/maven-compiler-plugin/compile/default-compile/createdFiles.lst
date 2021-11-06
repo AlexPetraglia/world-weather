@@ -1,0 +1,4 @@
+br\com\alexandrepetraglia\worldweather\core\usecase\impl\FindWeatherUseCaseImpl.class
+br\com\alexandrepetraglia\worldweather\core\domain\Weather.class
+br\com\alexandrepetraglia\worldweather\core\usecase\FindWeatherUseCase.class
+br\com\alexandrepetraglia\worldweather\core\port\FindWeatherPort.class
