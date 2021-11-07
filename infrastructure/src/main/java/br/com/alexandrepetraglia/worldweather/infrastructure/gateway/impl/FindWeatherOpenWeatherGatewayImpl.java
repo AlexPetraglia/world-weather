@@ -19,7 +19,7 @@ public class FindWeatherOpenWeatherGatewayImpl implements FindWeatherOpenWeather
 
     //URI = https://api.openweathermap.org/data/2.5/weather?q=london&appid=9c5e43c94aacb7b0da04ec69fd50e95f
     private final String apiHost = "https://api.openweathermap.org/data/2.5/weather";
-    private final String apiKey = "9c5e43c94aacb7b0da04ec69fd50e95f";
+    private final String apiKey = "";
 
     public OpenWeatherResponse findWeather(final String cityName) {
         try {
